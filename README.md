@@ -2,8 +2,15 @@
 The purpose is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. We have been given the data in data.js file.
 
 # Results: 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-![Jun_Dec_temp](https://github.com/Meghajain84/surfs_up/blob/main/Jun_Dec_temp.PNG)
+Taking example in the image below, we chose 1/13/2010 as one search criteria. As soon as I get out of the input box, the results are fetched.
+![date_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_search.PNG)
+
+We can further refine search by inputting other search criteria.
+![date_city_search](https://github.com/Meghajain84/UFOs/blob/main/static/images/date_city.PNG)
+
+If you want to remove some search criteria, just remove the value from respective input box.
+
+Also whatever we input, it have to be exact match as seen in example above for city.
 
 # Summary: 
 ## Drawback of this new design:
